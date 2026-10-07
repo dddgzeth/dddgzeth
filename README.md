@@ -6,12 +6,9 @@ Research Fellow @ NTU MSE — building automated research infrastructure by day,
 
 **Featured projects**
 
+- 🧪 [**flowchem**](https://github.com/automatedchemistry/flowchem) — core contributor to this open-source lab automation platform from Automated Chemistry @ Max Planck Institute of Colloids and Interfaces, powering instrument control for chemistry labs worldwide; shipped 9+ merged PRs spanning new hardware drivers (Vapourtec, Knauer, Ocean Optics) and core reliability fixes
 - 🧠 [**Synapse**](https://github.com/dddgzeth/Synapse) — an AI assistant with multi-layer long-term memory, built with Next.js, TypeScript, SQLite, vector search, and MCP
 - 🗂️ [**agent-memory-service**](https://github.com/dddgzeth/agent-memory-service) — Agent Memory Leaderboard add/search service derived from TencentDB Agent Memory
-
-**Open source experience**
-
-- 🔬 Contributed Ocean Optics spectrometer support to [flowchem](https://github.com/WolfDenLab/flowchem)
 
 **GitHub Stats**
 
@@ -21,4 +18,3 @@ Research Fellow @ NTU MSE — building automated research infrastructure by day,
 **Links**
 
 [Portfolio](https://cjlin.com) · [LinkedIn](https://www.linkedin.com/in/congjian-lin-9764881b3/) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/59323d36a9b2ed261892ff02)
-
