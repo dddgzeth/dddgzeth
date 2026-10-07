@@ -6,7 +6,7 @@ Research Fellow @ NTU MSE — building automated research infrastructure by day,
 
 **Featured projects**
 
-- 🧪 [**flowchem**](https://github.com/automatedchemistry/flowchem) — core contributor to this open-source lab automation platform from Automated Chemistry @ Max Planck Institute of Colloids and Interfaces, powering instrument control for chemistry labs worldwide; shipped 9+ merged PRs spanning new hardware drivers (Vapourtec, Knauer, Ocean Optics) and core reliability fixes
+- 🧪 [**automatedchemistry**](https://github.com/automatedchemistry) — core contributor to the Automated Chemistry group's (Max Planck Institute of Colloids and Interfaces) open-source lab automation stack, including flowchem and chemunited-orchestrator, powering instrument control for chemistry labs worldwide; shipped 9+ merged PRs spanning new hardware drivers (Vapourtec, Knauer, Ocean Optics) and core reliability fixes
 - 🧠 [**Synapse**](https://github.com/dddgzeth/Synapse) — an AI assistant with multi-layer long-term memory, built with Next.js, TypeScript, SQLite, vector search, and MCP
 - 🗂️ [**agent-memory-service**](https://github.com/dddgzeth/agent-memory-service) — Agent Memory Leaderboard add/search service derived from TencentDB Agent Memory
 
